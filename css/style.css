@@ -360,7 +360,7 @@
 .testimonial-right img:nth-child(2) {
     width: 60px;
     height: 60px;
-    top: 50%;
+    top: -8%;
     left: 10%;
     transform: translateY(-50%);
 }
